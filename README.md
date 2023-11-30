@@ -1,10 +1,10 @@
 # Data Visualization Developer
 
-#### Technical Skills: Excel, SQL, Power BI, Power Point
+#### Technical Skills: Excel, SQL Server, Microsoft Power BI, Micorosft Power Point, Microsoft Dynamics AX 2012 R2
 
 ## Education
-- Diploma of Computer Science/Information Technology | SCOMPTEC (_2003_)								       		
-- Bachelor of Computer Science/Information Technology (SIstem Informasi)	| Institut Informatika Indonesia (IKADO) (_2015_)	 			        		
+- Dipl. Computer Science | SCOMPTEC (_2003_)								       		
+- B.S. Infor System	| Institut Informatika Indonesia (_2015_)	 			        		
 
 ## Work Experience
 **ERP Project Manager @ Mikatasa (_February 2014 - October 2020_)**
