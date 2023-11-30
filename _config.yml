@@ -3,4 +3,5 @@ title: Oktanaya Profile
 logo: assets/img/logo_bulat_baru.png
 description: Data Visualization Developer
 show_downloads: false
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-basically-basic
