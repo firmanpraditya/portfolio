@@ -1,6 +1,8 @@
 logo: assets/img/logo_kotak.png
 title: Oktanaya Data Visual
-description: Data Visualization Developer
-- Design laporan interaktif menggunakan Microsoft Power BI dan Excel
+description: "Data Visualiazation Developer."
+author:
+  name: Firmansah Hendra Praditya
+  email: your-email@domain.com
 show_downloads: false
 theme: jekyll-theme-minimal
