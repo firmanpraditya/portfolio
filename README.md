@@ -1,5 +1,5 @@
 
-# Data Visualization
+# Data Visualization Power BI
 
 ### Education
 Information System
