@@ -30,6 +30,7 @@
 [Training Data Visual](https://www.youtube.com/@komunitasdatavisual3037)
 
 ![Komunitas Data Visual](/assets/img/komunitas_data_visual.png)
+Explore practical examples and case studies that showcase how data visualization transforms businesses across industries using Microsoft Power BI and Excel
 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
