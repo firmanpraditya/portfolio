@@ -1,4 +1,4 @@
-(assets/img/Foto Firman kece.png)
+(/assets/img/Foto Firman kece.png)
 # Data Visualization
 
 ### Education
