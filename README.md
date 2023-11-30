@@ -4,7 +4,7 @@
 
 ## Education
 - Dipl. Computer Science | SCOMPTEC (_2003_)								       		
-- B.S. Infor System	| Institut Informatika Indonesia (_2015_)	 			        		
+- B.S. Information System	| Institut Informatika Indonesia (_2015_)	 			        		
 
 ## Work Experience
 **ERP Project Manager @ Mikatasa (_February 2014 - October 2020_)**
@@ -27,7 +27,10 @@
   
 ## Projects
 ### Oktanaya data visual (online and offline class)
-[Training](https://www.youtube.com/@komunitasdatavisual3037)
+[Training Data Visual](https://www.youtube.com/@komunitasdatavisual3037)
+
+![Komunitas Data Visual](/assets/img/komunitas_data_visual.png)
+
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
