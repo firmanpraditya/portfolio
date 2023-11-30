@@ -1,28 +1,33 @@
-# Data Scientist
+# Data Visualization Developer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Excel, SQL, Power BI, Power Point
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Diploma of Computer Science/Information Technology | SCOMPTEC (_2003_)								       		
+- Bachelor of Computer Science/Information Technology (SIstem Informasi)	| Institut Informatika Indonesia (IKADO) (_2015_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**ERP Project Manager @ Mikatasa (_February 2014 - October 2020_)**
+- Develop and manage project governance including steering committee meetings, sponsor meetings, project team meetings, status reports, etc
+- Lead project teams, drive accountability and deliver ERP Implementation using Microsoft Dynamics AX 2012 R2 (Finance Accounting & Trade Logistics Module)
+- Design ERP Process Improvement
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**ICT Associate Manager @ Mikatasa (_October 2020 - Present_)**
+- Ensure compliance all handbook policies and practices in all company processes
+- Evaluate all working of formal staff and ensure compliance to all timescales
+- Plan, develop and evaluate computer-based information systems and propose innovations and improvements
+- Build data systems and pipelines
 
+**Data Visualisation Consultant @ Oktanaya (_January 2021 - Present_)**
+- Conduct training sessions for clients and end-users on using dashboards and reports
+- Create documentation for data visualization best practices and guidelines
+- Create data models to support the development of dashboards and reports
+- Develop interactive and dynamic reports that enable users to explore data effectively
+- Perform data profiling and exploratory data analysis to uncover potential issues and opportunities
+  
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Oktanaya data visual (online and offline class)
+[Training](https://www.youtube.com/@komunitasdatavisual3037)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
