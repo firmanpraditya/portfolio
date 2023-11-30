@@ -1,6 +1,5 @@
 
 # Data Visualization
-![firman_kece](assets/img/firman_kece.png)
 
 ### Education
 Information System
